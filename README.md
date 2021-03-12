@@ -1,13 +1,15 @@
 # Work_Day_Planner_Application
 
-# Steven-Paul-Portfolio
-
 ## Description 
 
 Create a calendar application that allows the user to save events in each hour of their work day that saves when they click the save icon on the right of the text box. Each code block displays a different color that indicates if its the current time, the time has past, or it is in the future. 
 
 ### Project Overview
 
+* Created div for each with seperate classes using bootstrap to style the rows for the text input and times. 
+* Fixed styling in CSS to make the hour classes uniform. 
+* Created a function for using momement and jquery to log the current date and time. 
+* Created local storage so text input is saved that the user logs in the text area.
 
 
 ## Usage  
@@ -22,7 +24,10 @@ Create a calendar application that allows the user to save events in each hour o
 
 ## Resources 
 
-* 
+* https://www.w3schools.com/jsref/met_storage_getitem.asp
+* https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+* https://stackoverflow.com/questions/42515588/how-to-set-time-with-date-in-momentjs
+
 
 License
 
