@@ -8,8 +8,9 @@ Create a calendar application that allows the user to save events in each hour o
 
 * Created div for each with seperate classes using bootstrap to style the rows for the text input and times. 
 * Created a function for using moment and jquery to log the current date and time even. 
-* Created an array  to lable each of the hours. 
-* Created a for loop for the  local storage so text input is saved that the user logs in the text area and the page is refreshed. 
+* Created an arrayto lable each of the hours. 
+* Created a function with a for loop for the  local storage so text input is saved that the user logs in the text area and the page is refreshed. 
+* Created a function with a for loop to change colors of the text boxes based on the current time. 
 
 
 ## Usage  

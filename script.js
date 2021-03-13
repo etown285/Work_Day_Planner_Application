@@ -1,4 +1,4 @@
-//Log the date and time in the header
+//Log the date and time in the header created a variable to display the hour for future function in to change box colors. 
 $(document).ready(function() {
     var x = moment().format('MMMM Do YYYY,');
     $("#currentDay").text(x); 
