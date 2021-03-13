@@ -7,7 +7,7 @@ Create a calendar application that allows the user to save events in each hour o
 ### Project Overview
 
 * Created div for each with seperate classes using bootstrap to style the rows for the text input and times. 
-* fixed hour class to be able to fit double digit times. 
+* Fixed hour class to be able to fit double digit times. 
 * Created a function for using moment and jquery to log the current date and time. 
 * Created a varriable to log the current hour from moment. 
 * Created an array to lable each of the hours. 
