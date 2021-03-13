@@ -12,7 +12,7 @@ Create a calendar application that allows the user to save events in each hour o
 * Created a varriable to log the current hour from moment. 
 * Created an array to lable each of the hours. 
 * Created a function with a for loop for the  local storage so text input is saved that the user logs in the text area and the page is refreshed. 
-* Created a function with a for loop to change colors of the text boxes based on the classes assigned for past, present and current. 
+* Created a function with a for loop to change colors of the text boxes based on the classes assigned for past, present and current for the rows. 
 
 
 ## Usage  
