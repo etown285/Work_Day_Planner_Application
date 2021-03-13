@@ -8,16 +8,17 @@ Create a calendar application that allows the user to save events in each hour o
 
 * Created div for each with seperate classes using bootstrap to style the rows for the text input and times. 
 * Created a function for using moment and jquery to log the current date and time even. 
+* Created an array  to lable each of the hours. 
 * Created a for loop for the  local storage so text input is saved that the user logs in the text area and the page is refreshed. 
 
 
 ## Usage  
 
-### Application outside of hours 
+### Application Outside of Hours 
 
 ![Screenshot](https://github.com/etown285/Work_Day_Planner_Application/blob/main/screenshots/Day_Planner_Outside%20of_Hours%20.png)
 
-### Application during hours 
+### Application During Hours 
 
 ![Screenshot](https://github.com/etown285/Work_Day_Planner_Application/blob/main/screenshots/Application%20during%20the%20day%20.png)
 
