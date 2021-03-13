@@ -19,11 +19,11 @@ Create a calendar application that allows the user to save events in each hour o
 
 ### Application during hours 
 
-![Screenshot]()
+![Screenshot](https://github.com/etown285/Work_Day_Planner_Application/blob/main/screenshots/Application%20during%20the%20day%20.png)
 
 ### Application Local Storage
 
-![Screenshot]()
+![Screenshot](https://github.com/etown285/Work_Day_Planner_Application/blob/main/screenshots/local%20storage%20by%20hour.PNG)
 
 ## Links
 
