@@ -56,6 +56,8 @@ $(document).ready(function() {
     $("#hour7").append(localStorage.getItem($("5")));
     */
 
+    //create local storage that saves what the user has entered and converted to for loop.
+
     function SetHoursOnLoad(){
         for (i = 0; i < hours.length; i++) {
             var id = hours[i];

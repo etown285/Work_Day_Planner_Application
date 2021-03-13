@@ -14,6 +14,12 @@ Create a calendar application that allows the user to save events in each hour o
 
 ## Usage  
 
+### Application outside of hours 
+
+![Screenshot](screenshots\Day_Planner_Outside of_Hours .png)
+
+### Application outside of hours 
+
 ![Screenshot]()
 
 ## Links
