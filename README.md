@@ -2,14 +2,13 @@
 
 ## Description 
 
-Create a calendar application that allows the user to save events in each hour of their work day that saves when they click the save icon on the right of the text box. Each code block displays a different color that indicates if its the current time, the time has past, or it is in the future. 
+Create a calendar application that allows the user to save events in each hour of their work day that saves when they click the save icon on the right of the text box. Each code block displays a different color that indicates if its the current time (red), the time has past (grey), or it is in the future (green). 
 
 ### Project Overview
 
 * Created div for each with seperate classes using bootstrap to style the rows for the text input and times. 
-* Fixed styling in CSS to make the hour classes uniform. 
-* Created a function for using momement and jquery to log the current date and time. 
-* Created local storage so text input is saved that the user logs in the text area.
+* Created a function for using moment and jquery to log the current date and time even. 
+* Created a for loop for the  local storage so text input is saved that the user logs in the text area and the page is refreshed. 
 
 
 ## Usage  
@@ -19,6 +18,10 @@ Create a calendar application that allows the user to save events in each hour o
 ![Screenshot](https://github.com/etown285/Work_Day_Planner_Application/blob/main/screenshots/Day_Planner_Outside%20of_Hours%20.png)
 
 ### Application during hours 
+
+![Screenshot]()
+
+### Application Local Storage
 
 ![Screenshot]()
 
@@ -33,6 +36,8 @@ Create a calendar application that allows the user to save events in each hour o
 * https://www.w3schools.com/jsref/met_storage_getitem.asp
 * https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 * https://stackoverflow.com/questions/42515588/how-to-set-time-with-date-in-momentjs
+* https://stackoverflow.com/questions/47605647/using-local-storage-on-for-loop
+
 
 
 License
