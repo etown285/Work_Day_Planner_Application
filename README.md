@@ -24,9 +24,9 @@ Create a calendar application that allows the user to save events in each hour o
 
 ## Links
 
-* Application URL: ()
+* Application URL: (https://etown285.github.io/Work_Day_Planner_Application/)
 
-* GitHub Repository URL: ()
+* GitHub Repository URL: (https://github.com/etown285/Work_Day_Planner_Application)
 
 ## Resources 
 
